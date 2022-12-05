@@ -14,7 +14,7 @@
 - 🔥 FFA
 - 🔥 Neuer Ladebildschirm
 - 🔥 Neues PD
-- 🔥: Discord Rich Presents
+- 🔥 Discord Rich Presents
 - 🔥 Neue EUPs
 - 🔥 Deaktivieren von Weapon Schlagen
 - 🔥 AntiCheat ( ❤️ Phoenix339#3788 )
